@@ -92,7 +92,7 @@ try {
     <table>
         <thead>
             <tr>
-                <th>ID</th>
+            
                 <th>Temp</th>
                 <th>Detail</th>
                 <th>Hành động</th>

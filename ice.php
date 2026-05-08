@@ -92,8 +92,7 @@ try {
     <table>
         <thead>
             <tr>
-            
-                <th>Temp</th>
+                
                 <th>Detail</th>
                 <th>Hành động</th>
             </tr>
